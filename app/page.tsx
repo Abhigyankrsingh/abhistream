@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button'
 
 
-export default function Home() {
+export default function Page() {
   return (
    
     <Button  size= "lg" > Click me
