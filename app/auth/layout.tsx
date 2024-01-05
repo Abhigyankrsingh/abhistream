@@ -7,7 +7,8 @@ const AuthLayout = ({
 
     return (
         <div>
-
+        
+        {children}
 
         </div>
     );
