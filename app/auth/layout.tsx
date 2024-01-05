@@ -6,7 +6,8 @@ const AuthLayout = ({
 }) => {
 
     return (
-        <div>
+        <div className="flex flex-col gap-y-4">
+        
         
         {children}
 
